@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/twitter-clone/static/css/main.81b534bc.css",
+    "main.js": "/twitter-clone/static/js/main.23589297.js",
+    "static/js/453.0e545c1e.chunk.js": "/twitter-clone/static/js/453.0e545c1e.chunk.js",
+    "static/media/IMG_20231230_195611.jpg": "/twitter-clone/static/media/IMG_20231230_195611.aa8ffe3a204ec007e5f1.jpg",
+    "static/media/image3.jpg": "/twitter-clone/static/media/image3.378db720041f1ad8c192.jpg",
+    "static/media/image4.jpg": "/twitter-clone/static/media/image4.7766e4918e4aac58ce1d.jpg",
+    "static/media/image1.jpg": "/twitter-clone/static/media/image1.bb45242c3bb12ff31bb2.jpg",
+    "static/media/image2.jpg": "/twitter-clone/static/media/image2.3eb732f3f25662d2ed0c.jpg",
+    "static/media/image5.png": "/twitter-clone/static/media/image5.a95ddd952408aa8fc8a2.png",
+    "static/media/pfp4.jpg": "/twitter-clone/static/media/pfp4.37072e373f489706ccfb.jpg",
+    "static/media/pfp1.jpg": "/twitter-clone/static/media/pfp1.96c8e6ba67a773d072fc.jpg",
+    "static/media/pfp2.jpg": "/twitter-clone/static/media/pfp2.38f9513524ca59c509b5.jpg",
+    "static/media/compass-svgrepo-com.png": "/twitter-clone/static/media/compass-svgrepo-com.eabe3f2c057b6e276a90.png",
+    "static/media/pfp3.jpg": "/twitter-clone/static/media/pfp3.d5c99c57873a8a836091.jpg",
+    "static/media/logo.svg": "/twitter-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/twitter-clone/index.html",
+    "main.81b534bc.css.map": "/twitter-clone/static/css/main.81b534bc.css.map",
+    "main.23589297.js.map": "/twitter-clone/static/js/main.23589297.js.map",
+    "453.0e545c1e.chunk.js.map": "/twitter-clone/static/js/453.0e545c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81b534bc.css",
+    "static/js/main.23589297.js"
+  ]
+}
